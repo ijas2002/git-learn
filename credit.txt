@@ -1,2 +1,0 @@
-username = ijas
-password = ijas123
